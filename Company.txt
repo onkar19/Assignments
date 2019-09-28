@@ -1,0 +1,29 @@
+ABOUT THE COMPANY:
+- Created in 2006.Its a service based company it provides the service like E-commerce, Web Designing. It is having almost 400+ employee. 
+- We are certifide partners of Oracle, SAP.
+- We are having branches at UK, DUBAI and the company Headquarter is in San Jose California.
+
+
+
+- parsys vs iparsys
+- Bundle life cycle
+- sort method
+- comparable is a class to compare two object. 
+
+I just created a langugae copy, which is already there other than that i didnt work mush on msm.
+path of a node is resource. resource.getPath().
+
+Code level or dialog level customization.
+Code level- Business requirement.
+
+why we need session?
+edit,cretae,delete we need session. To performe crude operation.
+
+Workflow session we can get the model of the workflow but for jcr session we can not.
+Workflow session we can start the worklfow and stop.we to pass to particular model and meta data and some payload by backend java code.
+Admin support group-asg.
+
+data-sly-test = initialize a varible
+data-sly-test.abc = string value
+
+how can we pass argument to model? through sightly
